@@ -1,5 +1,5 @@
 # Course-Evaluation-System
-A project to allow for students to anonymously write feedback about professors and professors can see the feedback that was left for them.
+Students may rate a lecture and professors can see the rating filtered by course and class.
 
 ## Project Overview
 Professors love hearing feedback from students on how they can improve the lecture and make it more insighting for the students. Often, I had professors that would hand out a paper at the end of every lecture for students to give anonymous feedback about the lecture. This would be very time consuming reading every paper, every lecture and sorting them for the records. This project allows for a professor to login and add courses that they teach and the system will automatically generate a session ID based on the weekly evaluation times and start, end days of the semester. These sessions contain a randomly generated evaluation password for the students which the professor can change at any time. The professor can view reports for each session for all sessions of a course over the semester. The professor can also see a chart for every report. This project allows for a student to login to the courses he's enrolled in, and anonymously leave feedback for professors of the corresponding class and date. 
