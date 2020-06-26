@@ -23,6 +23,20 @@ Professors love hearing feedback from students on how they can improve the lectu
   * The courses the student is currently taking will be visible in the dashboard.
   * A student can anonymously rate and comment a specific lecture.
   * Student will hopefully have a better experience in subsequent lectures.
+  
+## Gallery
+
+Student Login              | Course Dashboard         
+:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Student%20Login%20Verification.png)  | ![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Course%20Dashboard.png)
+
+Rating Page                | Rating Posted            
+:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Rating%20Page.png)  | ![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Rating%20Posted.png)
+
+Rating Changed             | Professor Login             
+:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Rating%20Changed.png)  | ![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Professor%20Login.png)
 
 ## Skills Used
   
