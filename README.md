@@ -38,6 +38,10 @@ Rating Changed             | Professor Login
 :-------------------------:|:-------------------------:
 ![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Rating%20Changed.png)  | ![](https://github.com/dannyjanani/Course-Evaluation-System/blob/master/Gallery/Professor%20Login.png)
 
+How it Works!    
+:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/course_eval.jpeg)](https://vimeo.com/432714107)
+
 ## Skills Used
   
 * Software:
