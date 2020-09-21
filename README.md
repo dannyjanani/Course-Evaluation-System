@@ -40,7 +40,7 @@ Rating Changed             | Professor Login
 
 How it Works!    
 :-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/course_eval.jpeg)](https://vimeo.com/432714107)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/CourseEval-Thumbnail.png)](https://vimeo.com/432714107)
 
 ## Skills Used
   
